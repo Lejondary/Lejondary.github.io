@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username: Lejondary 
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
