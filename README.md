@@ -7,6 +7,6 @@ A Lejondary Site Under Construction!
 - [ ] website structure  
 - [ ] updated README  
 - [ ] updated descrition
-- [ ] upate NGE font  
-- [ ] update index  
+- [ ] updated NGE font  
+- [ ] updated index  
 
