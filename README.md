@@ -8,6 +8,7 @@ A Lejondary Site Under Construction!
 - [ ] updated description  
 - [ ] updated NGE font  
 - [ ] updated index   
+- [x] resize pfp
 - [ ] journal layouts   
 - [ ] first post! 
 
