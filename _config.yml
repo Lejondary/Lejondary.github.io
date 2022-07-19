@@ -19,10 +19,8 @@ platforms:
     link: https://www.linkedin.com/in/jonathanphari
 
 navigation:
-  - name: Readme
+  - name: About
     link: ./index.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
+  - name: Goals
+  - name: Journal
     link: ./another-page.html
