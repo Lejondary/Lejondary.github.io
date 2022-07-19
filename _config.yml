@@ -1,7 +1,7 @@
-title: Minimalistic
-logo: /assets/img/logo.jpg
-email: person@address.com
-description: Minimalistic is a theme powered by Jekyll.
+title: Lejondary
+logo: /assets/img/LejondaryPFP.jpg
+  #email: person@address.com
+description: Under Contruction!
 favicon: true
 color-scheme: auto
 
@@ -13,10 +13,10 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/vaibhavvikas
+    link: https://github.com/Lejondary
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://www.linkedin.com/in/jonathanphari
 
 navigation:
   - name: Readme
