@@ -20,7 +20,7 @@ platforms:
 
 navigation:
   - name: About
-    link: ./index.html
+    link: ./about.html
   - name: Goals
   - name: Journal
-    link: ./another-page.html
+    link: ./journal.html
