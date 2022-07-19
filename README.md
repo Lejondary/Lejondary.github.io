@@ -2,11 +2,12 @@ A Lejondary Site Under Construction!
 
 #**TODO**
 - [ ] contents list categories  
-- [ ] updated first page  
-- [ ] updated another page  
+- [ ] updated first page   
 - [ ] website structure  
 - [ ] updated README  
-- [ ] updated descrition
+- [ ] updated description  
 - [ ] updated NGE font  
-- [ ] updated index  
+- [ ] updated index   
+- [ ] journal layouts   
+- [ ] first post! 
 
