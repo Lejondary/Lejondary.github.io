@@ -1,16 +1,16 @@
 <div class="link-wrapper">
-  {% if site.platforms %}
+  {% if site.data.sidebar.platforms %}
   <ul class="link">
-    {%- for platform in site.platforms %}
+    {%- for platform in site.data.sidebar.platforms %}
     <li><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a></li>
     {%- endfor %}
   </ul>
   {% endif %}
 
-  {% if site.navigation %}
+  {% if site.data.sidebar.navigation %}
   <h3 class="sidebar-h3">Components:</h3>
   <ul class="content">
-  {%- for item in site.navigation %}
+  {%- for item in site.data.sidebar.navigation %}
     <li><a href="{{ item.link }}">{{ item.name }}</a>
         {% if item.sublist %}
         <ul class="sublist">
