@@ -1,9 +1,9 @@
 ---
 layout: post
+title: Journal
+author: Jon
 ---
 
-## Test
-
-Test
+This is the Lejondary journal.
 
 [back](./)
