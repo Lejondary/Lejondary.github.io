@@ -22,5 +22,6 @@ navigation:
   - name: About
     link: ./about.html
   - name: Goals
+    link: ./goals.html
   - name: Journal
     link: ./journal.html
