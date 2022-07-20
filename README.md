@@ -10,4 +10,7 @@ A Lejondary Site Under Construction!
 - [x] resize pfp
 - [ ] journal layouts   
 - [ ] first post! 
-
+- [ ] navigation html  
+- [ ] data folder
+- [ ] posts folder  
+- [ ] clean up config  
