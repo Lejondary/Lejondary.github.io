@@ -2,7 +2,7 @@ A Lejondary Site Under Construction!
 
 # **TODO**
 - [ ] contents list categories  
-- [ ] updated first page   
+- [ ] updated index page   
 - [ ] website structure  
 - [ ] updated README  
 - [ ] updated description  
@@ -10,7 +10,11 @@ A Lejondary Site Under Construction!
 - [x] resize pfp
 - [ ] journal layouts   
 - [ ] first post! 
-- [ ] navigation html  
-- [ ] data folder
+- [x] clean up sidebar yml  
+- [x] data folder
 - [ ] posts folder  
-- [ ] clean up config  
+- [x] clean up config  
+- [ ] about me  
+- [ ] goals   
+- [ ] move description and email to data from config
+
