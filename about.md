@@ -1,4 +1,8 @@
 ---
 layout: default
+title: About Me
 ---
-Too Lejondary
+
+# About Me
+
+Lejondary About Me
