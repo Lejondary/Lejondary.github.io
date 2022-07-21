@@ -1,3 +1,9 @@
+{% if site.email %}
+<p class="addr"><i class="fa-solid fa-envelope"></i>&nbsp;<a href="mailto:{{site.email}}">{{ site.email }}</a></p>
+{% endif %}
+
+<p>{{ site.data.sidebar.description | default: site.github.project_tagline }}</p>
+
 <div class="link-wrapper">
   {% if site.data.sidebar.platforms %}
   <ul class="link">
