@@ -16,5 +16,6 @@ A Lejondary Site Under Construction!
 - [x] clean up config  
 - [ ] about me  
 - [ ] goals   
-- [ ] move description and email to data from config
+- [x] move description and email to data from header
+- [ ] clean up main
 
