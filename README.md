@@ -1,7 +1,7 @@
 A Lejondary Site Under Construction!
 
 # **TODO**
-- [ ] contents list categories  
+- [x] contents list categories  
 - [ ] updated index page   
 - [ ] website structure  
 - [ ] updated README  
@@ -9,13 +9,13 @@ A Lejondary Site Under Construction!
 - [ ] updated NGE font  
 - [x] resize pfp
 - [ ] journal layouts   
-- [ ] list of links to posts
+- [x] list of links to posts
 - [ ] tags and categories for posts
 - [ ] first post! 
 - [x] clean up sidebar yml  
 - [x] data folder
-- [ ] posts folder  
-- [ ] drafts folder
+- [x] posts folder  
+- [x] drafts folder
 - [x] clean up config  
 - [ ] about me  
 - [ ] goals   
