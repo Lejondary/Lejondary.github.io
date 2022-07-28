@@ -17,7 +17,7 @@ Reddit stories, true or not, but real ones...they da real ones.
 Traffic karaoke singing.  
 Dancing my pants off, but not actually.  
 Tom Hanks. All my favorite movies have him in it coincidentally.  
-Forest Gump FOR LIFE, but Saving Priving Ryan is super duper good, too.  
+Forrest Gump FOR LIFE, but Saving Priving Ryan is super duper good, too.  
 AND TERMINAL. CATCH ME IF YOU CAN, TOO.  
 I love that guy so much, here's a picture of him that I low key resonate with sometimes.  
 
