@@ -17,7 +17,7 @@ A Lejondary Site Under Construction!
 - [x] posts folder  
 - [x] drafts folder
 - [x] clean up config  
-- [ ] about me  
+- [x] about me  
 - [x] goals   
 - [x] move description and email to data from header
 - [x] clean up main
