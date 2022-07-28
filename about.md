@@ -21,7 +21,7 @@ Forrest Gump FOR LIFE, but Saving Priving Ryan is super duper good, too.
 AND TERMINAL. CATCH ME IF YOU CAN, TOO.  
 I love that guy so much, here's a picture of him that I low key resonate with sometimes.  
 
-![alt text](assets/img/forest-gump.jpg)
+![alt text](assets/img/forrest-gump.jpg)
 
 I could find one thing about anything fascinating honestly.  
 Anyways.  
