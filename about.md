@@ -19,9 +19,9 @@ Dancing my pants off, but not actually.
 Tom Hanks. All my favorite movies have him in it coincidentally.  
 Forrest Gump FOR LIFE, but Saving Priving Ryan is super duper good, too.  
 AND TERMINAL. CATCH ME IF YOU CAN, TOO.  
-I love that guy so much, here's a picture of him that I low key resonate with sometimes.  
+I love that guy so much, here's a picture of him that I low key resonate with.  
 
-![alt text](assets/img/forrest-gump.jpg)
+<img src="assets/img/forrest-gump.jpg" alt="forrest" width="75%"/>
 
 I could find one thing about anything fascinating honestly.  
 Anyways.  
