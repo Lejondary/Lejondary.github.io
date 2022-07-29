@@ -15,7 +15,7 @@ title: Goals
 ## Projects
 
 - Host a Dedicated Web Server
-- Host a CSGO Server
+- ~~Host a CSGO Server~~  
 - Host a MineCraft Server
 - Host a Magic Wormhole Server
 - Host a Plex Server
