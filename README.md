@@ -23,3 +23,4 @@ A Lejondary Site Under Construction!
 - [x] clean up main
 - [x] fix ruby workflow
 - [x] projects list
+- [ ] csgo server guide page
