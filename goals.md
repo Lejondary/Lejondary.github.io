@@ -7,8 +7,8 @@ title: Goals
 
 ## Certifications
 
-- GCP Associate Cloud Engineer Certification
-- GCP Professional Certification
+- ~~GCP Associate Cloud Engineer Certification~~
+- GCP Professional Cloud Architect Certification
 
 ---
 
