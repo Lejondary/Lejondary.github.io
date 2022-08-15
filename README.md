@@ -1,10 +1,9 @@
 A Lejondary Site Under Construction!
 
 # **TODO**
-- [ ] updated index page   
-- [ ] updated README  
+- [ ] updated home page   
 - [ ] updated NGE font  
-- [ ] journal layouts   
-- [ ] tags and categories for posts
-- [ ] first post! 
+- [x] tags for posts
+- [ ] categories for posts
+- [x] first post ever! 
 - [ ] csgo server guide page
