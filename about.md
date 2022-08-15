@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me
+title: Lejondary | About Me
 ---
 
 # About Me

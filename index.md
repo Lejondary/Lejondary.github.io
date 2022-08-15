@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Lejondary | Home
 ---
 
 # Home

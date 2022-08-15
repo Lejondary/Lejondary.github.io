@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Goals
+title: Lejondary | Goals
 ---
 
 # Goals
