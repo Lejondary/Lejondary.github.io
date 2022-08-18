@@ -2,7 +2,8 @@
 layout: post
 title: "GCP ACE Certificaton"
 author: Lejondary
-tags: career
+categories: career
+tags: certifications
 ---
 
 # I PASSED!
@@ -18,7 +19,7 @@ I don't think I could've done it without your guidance, honestly.
 You guys are the best people I've ever known and have changed my life for the better.
 I love you guys.  
 
-This is just the first step in my lejondary journey to become a master pro. Cheesy, but I like cheese.  
+This is just the first step in my lejondary journey to become a master pro. Cheesy, but I like cheese, yaddamean?  
 
 Next cert, GCP Professional Cloud Architect!
 
