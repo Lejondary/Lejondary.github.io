@@ -19,7 +19,7 @@ title: Lejondary | Goals
 - Host a MineCraft Server
 - Host a Magic Wormhole Server
 - Host a Plex Server
-- Create a Discord Bot
+- ~~Create a Discord Bot~~
 - Make a Machine Learning Application
 - Make an Application in:
   - Java
