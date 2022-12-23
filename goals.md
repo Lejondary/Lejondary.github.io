@@ -7,8 +7,11 @@ title: Lejondary | Goals
 
 ## Certifications
 
-- ~~GCP Associate Cloud Engineer Certification~~
-- GCP Professional Cloud Architect Certification
+:medal_sports: ~~GCP Associate Cloud Engineer Certification~~ 08/22/22  
+:medal_sports: ~~GCP Professional Cloud Architect Certification~~ 12/20/22  
+:weight_lifting_man: GCP Professional Data Engineer  
+:weight_lifting_man: GCP Professional Database Engineer  
+:weight_lifting_man: GCP Professional Cloud Security Engineer  
 
 ---
 
