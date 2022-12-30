@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "All Your Domain Are Belong To Me."
+title: "My First Registered Domain Name"
 author: Lejondary
 categories: career
 tags: dns
