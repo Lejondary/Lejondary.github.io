@@ -11,6 +11,6 @@ A Lejondary Site Under Construction!
 - [ ] projects page
 - [ ] domain name change 
 - [ ] goals page with links to specific project in projects page
-- [ ] 2023 goals list
+- [x] 2023 goals list
 - [ ] allow for workspace flexibility
 
