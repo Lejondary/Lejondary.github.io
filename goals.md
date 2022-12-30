@@ -12,24 +12,32 @@ title: Lejondary | Goals
 :weight_lifting_man: GCP Professional Data Engineer  
 :weight_lifting_man: GCP Professional Database Engineer  
 :weight_lifting_man: GCP Professional Cloud Security Engineer  
+:weight_lifting_man: AWS Associate Solutions Architect  
+:weight_lifting_man: AWS Professional Solutions Architect  
+:weight_lifting_man: Certified Kubernetes Administrator  
+:weight_lifting_man: Certified Kubernetes Security Specialist  
 
 ---
-
+ 
 ## Projects
 
-- Host a Dedicated Web Server
-- ~~Host a CSGO Server~~  
-- Host a MineCraft Server
-- Host a Magic Wormhole Server
-- Host a Plex Server
-- ~~Create a Discord Bot~~
-- Make a Machine Learning Application
 - Make an Application in:
   - Java
   - C++
   - Golang
-  - Python
+  - Python --> VPC
   - Carbonlang
+  - Flutter --> VPC
+
+- Make a Machine Learning Application
+- Host a Dedicated Web Server  
+:+1: ~~Host a GCP CSGO Server~~ 07/15/22  
+- Host a GCP MineCraft Server
+- Host a Magic Wormhole Server
+- Host a Plex Server  
+:+1: ~~Create a Discord Bot~~ 11/1/22  
+- Make a Mod 
+- Make a GCP Amazon Clone
 
 ---
 
