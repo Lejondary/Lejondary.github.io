@@ -22,8 +22,8 @@ title: Lejondary | Goals
 ## Projects
 
 - Make an Application in:
-  - Java
-  - C++
+  - Java --> MvC
+  - C++ --> Val
   - Golang
   - Python --> VPC
   - Carbonlang
@@ -36,13 +36,18 @@ title: Lejondary | Goals
 - Host a Magic Wormhole Server
 - Host a Plex Server  
 :+1: ~~Create a Discord Bot~~ 11/1/22  
-- Make a Mod 
+- Make a Mod in SMPC
 - Make a GCP Amazon Clone
+- Make a GCP Reddit Clone  
 
 ---
 
 ## Other
 
-- Participate in Hackathon
+- Earn 10 Qwiklab Badges
+- Finish FCC
+- Finish TOP
+- Finish HCS50
 - Contribute to Open-source GitHub Project
+- Participate in Hackathon
 - Build a Smart Mirror
