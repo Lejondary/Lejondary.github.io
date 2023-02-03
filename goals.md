@@ -37,6 +37,7 @@ title: Lejondary | Goals
 - Host a Plex Server  
 :+1: ~~Create a Discord Bot~~ 11/1/22  
 - Make a Mod in SMPC
+- Make a ChatGPT Clone
 - Make a GCP Amazon Clone
 - Make a GCP Reddit Clone  
 
