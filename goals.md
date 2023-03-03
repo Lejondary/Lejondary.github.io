@@ -24,13 +24,12 @@ title: Lejondary | Goals
 - Make an Application in:
   - Java --> MvC
   - C++ --> Val
-  - Golang
+  - Golang --> ValTracker
   - Python --> VPC
   - Carbonlang
   - Flutter --> VPC
 
 - Make a Machine Learning Application
-- Host a Dedicated Web Server  
 :+1: ~~Host a GCP CSGO Server~~ 07/15/22  
 - Host a GCP MineCraft Server
 - Host a Magic Wormhole Server
