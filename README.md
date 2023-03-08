@@ -18,3 +18,4 @@ A Lejondary Site Under Construction!
 - [ ] val badge on sidebar
 - [ ] gh local dev doc
 - [ ] custom domain doc
+- [ ] notion integration
