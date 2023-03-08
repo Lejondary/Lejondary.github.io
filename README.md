@@ -12,6 +12,9 @@ A Lejondary Site Under Construction!
 - [ ] journal automate draft template
 - [ ] csgo server guide page
 - [ ] projects page
+- [ ] projects linked from goals to specific project doc
 - [x] gh domain name change to google domains
 - [ ] goals page with links to specific project in projects page
 - [ ] val badge on sidebar
+- [ ] gh local dev doc
+- [ ] custom domain doc

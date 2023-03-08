@@ -39,6 +39,7 @@ title: Lejondary | Goals
 - Make a ChatGPT Clone
 - Make a GCP Amazon Clone
 - Make a GCP Reddit Clone  
+- Make a DDR Clone  
 
 ---
 
