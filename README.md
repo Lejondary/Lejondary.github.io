@@ -9,8 +9,9 @@ A Lejondary Site Under Construction!
 - [ ] journal index of posts in reverse chrono order dates w/ latest post at top of page
 - [ ] journal inside post, link to specific cats and tags index of posts in reverse chrono order dates
 - [ ] journal next and previous post links
+- [ ] journal automate draft template
 - [ ] csgo server guide page
 - [ ] projects page
-- [ ] domain name change
+- [x] gh domain name change to google domains
 - [ ] goals page with links to specific project in projects page
 - [ ] val badge on sidebar
