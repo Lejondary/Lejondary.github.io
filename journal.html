@@ -3,15 +3,18 @@ layout: default
 title: Lejondary | Journal
 ---
 
-<h1>Journal</h1>
+<h1>A<br>
+LEJONDARY<br>
+JOURNAL</h1>
 
-<h2>Latest Entries</h2>
+<h2>LATEST ENTRIES:</h2>
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+	{{post.date | date_to_string}}
+	<a href="{{ post.url }}">{{ post.title }}</a> 
+	{{ post.excerpt }} 
     </li>
   {% endfor %}
 </ul>
