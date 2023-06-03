@@ -11,6 +11,7 @@ A Lejondary Site Under Construction!
 - [ ] journal inside post, link to specific cats and tags index of posts in reverse chrono order dates
 - [ ] journal next and previous post links
 - [ ] journal automate draft template
+- [ ] journal fix sidebar links
 - [ ] goals link to certs
 - [ ] projects page with descriptions
 - [ ] projects linked from goals/projects to specific project portfolio site
