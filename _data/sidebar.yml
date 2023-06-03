@@ -12,8 +12,8 @@ platforms:
 
 navigation:
 - name: About
-  link: ./about.html
+  link: /about.html
 - name: Goals
-  link: ./goals.html
+  link: /goals.html
 - name: Journal
-  link: ./journal.html
+  link: /journal.html
