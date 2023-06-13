@@ -55,3 +55,10 @@ title: Lejondary | Goals
 - Contribute to Open-source GitHub Project
 - Participate in Hackathon
 - Build a Smart Mirror
+- Finish FSRM
+- Finish BERM
+- Finish FERM
+- Finish PRM
+- Finish DRM
+- Finish KRM
+- Finish DORM

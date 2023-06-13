@@ -6,6 +6,7 @@ A Lejondary Site Under Construction!
 - [x] gh domain name change to google domains
 - [ ] gh purchase .io
 - [x] gh purchase .com
+- [ ] gh setup gh pages for projs+com
 - [ ] journal NGE style font title cards for post layout
 - [ ] journal NGE style font titles flush with background
 - [ ] journal index of posts in reverse chrono order dates w/ latest post at top of page
