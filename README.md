@@ -2,25 +2,22 @@ A Lejondary Site Under Construction!
 
 # **TODO**
 
-- [ ] gh local dev doc
-- [x] gh domain name change to google domains
-- [ ] gh purchase .io
-- [x] gh purchase .com
-- [ ] gh setup gh pages for projs+com
-- [x] gh dotfiles
-- [x] gh port repo
-- [ ] journal NGE style font title cards for post layout
-- [ ] journal NGE style font titles flush with background
-- [ ] journal index of posts in reverse chrono order dates w/ latest post at top of page
+- [ ] gh add local dev doc
+- [ ] gh setup gh pages for projs
+- [ ] gh add road card
+- [ ] journal add NGE style font title cards for post layout
+- [ ] journal add NGE style font titles flush with background
+- [ ] journal add index of posts in reverse chrono order dates w/ latest post at top of page
 - [ ] journal inside post, link to specific cats and tags index of posts in reverse chrono order dates
-- [ ] journal next and previous post links
+- [ ] journal add next and previous post links
 - [ ] journal automate draft template
-- [x] journal fix sidebar links
-- [ ] goals link to certs
-- [ ] projects page with descriptions
-- [ ] projects linked from goals/projects to specific project portfolio site
-- [ ] projects doc template
-- [ ] updated home page
-- [ ] updated NGE style font for entire site
-- [ ] val badge on sidebar
-- [ ] notion integration
+- [ ] goals add link to certs
+- [ ] projects add page with descriptions
+- [ ] projects add link from goals+projects to specific project portfolio site or vice versa
+- [ ] projects add doc template
+- [ ] .dev fix browser dimensions
+- [ ] .dev update home page
+- [ ] .dev update NGE style font for entire site
+- [ ] .dev add val badge on sidebar
+- [ ] .dev add road card on sidebar
+- [ ] .dev imp notion api notes
