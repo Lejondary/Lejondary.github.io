@@ -16,14 +16,15 @@ title: Lejondary | Goals
 :weight_lifting_man: GCP Professional Cloud Security Engineer  
 :weight_lifting_man: GCP Professional Cloud Network Engineer  
 :weight_lifting_man: GCP Professional Cloud Developer  
-:weight_lifting_man: AWS Associate Solutions Architect  
-:weight_lifting_man: AWS Professional Solutions Architect  
+:weight_lifting_man: HashiCorp Certified Terraform Associate  
 :weight_lifting_man: Certified Kubernetes Administrator  
 :weight_lifting_man: Certified Kubernetes Security Specialist  
 :weight_lifting_man: Docker Certified Associate  
+:weight_lifting_man: AWS Associate Solutions Architect  
+:weight_lifting_man: AWS Professional Solutions Architect  
 
 ---
- 
+
 ## Projects
 
 - Make an Application in:
@@ -62,3 +63,5 @@ title: Lejondary | Goals
 - Finish DRM
 - Finish KRM
 - Finish DORM
+- Finish SRM
+- Finish ARM
