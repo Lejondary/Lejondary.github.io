@@ -28,34 +28,35 @@ title: Lejondary | Goals
 ## Projects
 
 - Make an Application in:
+  - Python --> GFT/VPC
+  - Angular --> port
   - Java --> MvC
   - C++ --> Val
   - Golang --> ValTracker
-  - Python --> VPC
   - Carbonlang
-  - Flutter --> VPC
+  - Flutter
 
-- Make a Machine Learning Application  
 :+1: ~~Host a GCP CSGO Server~~ 07/15/22  
-- Host a GCP MineCraft Server  
-- Host a Magic Wormhole Server  
-- Host a Plex Server  
 :+1: ~~Create a Discord Bot~~ 11/1/22  
-- Make a ChatGPT Clone  
+- Build a GCP Dialogflow/ChatGPT Bot (ML)  
+- Build VPC in GCP  
+- Host a GCP MineCraft Server  
 - Make a GCP Amazon Clone  
 - Make a GCP Reddit Clone  
 - Make a DDR Clone  
+- Host a Magic Wormhole Server  
+- Host a Plex Server  
 
 ---
 
 ## Other
 
 - Earn 10 Qwiklab Badges
+- Finish GAI
 - Finish FCC
 - Finish HCS50
 - Contribute to Open-source GitHub Project
 - Participate in Hackathon
-- Build a Smart Mirror
 - Finish FSRM
 - Finish BERM
 - Finish FERM

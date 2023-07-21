@@ -14,7 +14,7 @@ A Lejondary Site Under Construction!
 - [ ] goals add link to certs
 - [ ] projects add page with descriptions
 - [ ] projects add link from goals+projects to specific project portfolio site or vice versa
-- [ ] projects add doc template
+- [x] projects add doc template
 - [ ] .dev fix browser dimensions
 - [ ] .dev update home page
 - [ ] .dev update NGE style font for entire site
