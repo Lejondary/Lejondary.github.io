@@ -21,3 +21,4 @@ A Lejondary Site Under Construction!
 - [ ] .dev add val badge on sidebar
 - [ ] .dev add road card on sidebar
 - [ ] .dev imp notion api notes
+- [ ] .dev fix bm issue
