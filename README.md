@@ -2,6 +2,7 @@ A Lejondary Site Under Construction!
 
 # **TODO**
 
+- [ ] gh migrate jekyll site to 11ty
 - [ ] gh add local dev doc
 - [ ] gh setup gh pages for projs
 - [ ] gh add road card
