@@ -6,11 +6,9 @@ A Lejondary Site Under Construction!
 - [ ] gh integrate to gcp 
 - [ ] gh add local dev doc
 - [ ] gh add road card
+- [ ] gh imp draft template to 11ty
 - [ ] journal add NGE style font title cards
 - [ ] journal add next and previous post links
-- [ ] journal automate draft template
 - [ ] goals add link to certs
 - [ ] .dev update NGE style font for entire site
-- [ ] .dev add val badge on sidebar
 - [ ] .dev add road card on sidebar
-- [ ] .dev imp notion api notes
