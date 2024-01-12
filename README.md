@@ -11,3 +11,5 @@ A Lejondary Site Under Construction!
 - [ ] .dev update NGE style font title cards for entire site
 - [ ] .dev add next/previous post links
 - [ ] .dev add road card on sidebar
+- [ ] proj piano/genai app gcp
+- [ ] proj ff gcp
