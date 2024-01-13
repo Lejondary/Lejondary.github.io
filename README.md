@@ -12,4 +12,5 @@ A Lejondary Site Under Construction!
 - [ ] .dev add next/previous post links
 - [ ] .dev add road card on sidebar
 - [ ] proj piano/genai app gcp
-- [ ] proj ff gcp
+- [ ] proj ff site gcp
+- [ ] proj mod
