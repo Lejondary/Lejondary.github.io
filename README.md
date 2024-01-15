@@ -8,6 +8,9 @@ A Lejondary Site Under Construction!
 - [ ] gh add road card
 - [ ] gh imp draft template to 11ty
 - [ ] goals add link to certs
+- [x] .dev temp about
+- [ ] .dev update goals
+- [ ] .dev change sidebar
 - [ ] .dev update NGE style font title cards for entire site
 - [ ] .dev add next/previous post links
 - [ ] .dev add road card on sidebar
