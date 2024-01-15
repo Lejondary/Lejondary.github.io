@@ -11,8 +11,8 @@ platforms:
   link: https://www.linkedin.com/in/jonathanphari
 
 navigation:
-- name: About
-  link: /about.html
+#- name: About
+#  link: /about.html
 - name: Goals
   link: /goals.html
 - name: Journal
