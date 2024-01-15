@@ -3,12 +3,12 @@ layout: default
 title: Lejondary | About Me
 ---
 
-# About Me
+# More About Me
 
 Whad hannin'.  
 My name is Jonathan like Joe-Nathan, but you can call me Jon.  
 Some things about me.  
-I'm a former burger engineer turned actual computer engineer.   
+I'm a former burger engineer turned actual computer engineer.  
 I find too many things in life so fascinating.  
 I love alliterations, architecture, and rom coms.  
 Clever and unique phrases that nobody says ever, probably.  
@@ -27,4 +27,4 @@ I could find one thing about anything fascinating honestly.
 Anyways.  
 Here's some things I'm truly grateful to be able to experience in life.  
 SF Giants games, traveling, snowboarding, festivals, conventions,  
-anime, running, hiking, weight lifting, valorant, conversations with you, and Batman.   
+anime, running, hiking, weight lifting, valorant, conversations with you, and Batman.
