@@ -10,7 +10,7 @@ A Lejondary Site Under Construction!
 - [ ] goals add link to certs
 - [x] .dev temp about
 - [ ] .dev update goals
-- [ ] .dev change sidebar
+- [x] .dev change sidebar
 - [ ] .dev update NGE style font title cards for entire site
 - [ ] .dev add next/previous post links
 - [ ] .dev add road card on sidebar
