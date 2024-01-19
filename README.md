@@ -14,5 +14,3 @@ A Lejondary Site Under Construction!
 - [ ] .dev add road card on sidebar
 - [ ] .dev implement dark/light mode
 - [ ] .dev optimize for mobile
-- [ ] proj piano/genai app gcp
-- [ ] proj ff site gcp
