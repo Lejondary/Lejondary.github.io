@@ -11,6 +11,5 @@ A Lejondary Site Under Construction!
 - [ ] .dev update goals
 - [ ] .dev update NGE style font title cards for entire site
 - [ ] .dev add next/previous post links
-- [ ] .dev add road card on sidebar
 - [ ] .dev implement dark/light mode
 - [ ] .dev optimize for mobile
