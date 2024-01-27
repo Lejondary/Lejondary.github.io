@@ -1,5 +1,3 @@
-A Lejondary Site Under Construction!
-
 # **TODO**
 
 - [ ] gh migrate jekyll site to 11ty
