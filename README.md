@@ -1,4 +1,4 @@
-# **TODO**
+# TODO
 
 - [ ] gh migrate jekyll site to 11ty
 - [ ] gh integrate to gcp
@@ -12,3 +12,5 @@
 - [ ] .dev doc gcsb prog
 - [ ] .dev doc badges
 - [ ] .dev doc roadmap
+
+# END TODO
