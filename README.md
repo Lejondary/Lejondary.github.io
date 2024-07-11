@@ -12,5 +12,8 @@
 - [ ] .dev doc gcsb prog
 - [ ] .dev doc badges
 - [ ] .dev doc roadmap
+- [ ] .dev use as dev for proj
+- [ ] .dev link socials
+- [ ] .dev mdo-like
 
 # END TODO
